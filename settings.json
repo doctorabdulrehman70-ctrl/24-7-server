@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "INVINCIBLE333-GQzY.aternos.me",
     "port": 21081,
-    "version": "1.20.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
